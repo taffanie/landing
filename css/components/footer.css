@@ -1,0 +1,29 @@
+.footer {
+  background-color: #2F2728;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.footer span {
+  color: #a9a9a9;
+}
+
+.media i {
+  font-size: 30px;
+  color: #21bf73;
+  padding: 3px;
+}
+
+.media {
+  padding-bottom: 16px;
+}
